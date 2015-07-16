@@ -1,0 +1,10 @@
+<template name="UsersList">
+  <div class="users-list">
+    {{# each users}}
+      <div class="chat-user">
+        <span class="glyphicon glyphicon-user"></span>
+        <div class="chat-user-name">{{username}}</div>
+      </div>
+    {{/ each}}
+  </div>
+</template>
