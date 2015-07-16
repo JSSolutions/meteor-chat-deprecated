@@ -1,0 +1,14 @@
+/*****************************************************************************/
+/* Login: Style */
+/*****************************************************************************/
+.login {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.login input {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
