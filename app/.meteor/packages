@@ -8,3 +8,5 @@ meteor-platform
 iron:router
 accounts-password
 twbs:bootstrap
+okgrow:iron-router-autoscroll
+lbee:moment-helpers
